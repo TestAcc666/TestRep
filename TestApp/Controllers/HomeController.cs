@@ -23,5 +23,10 @@ namespace TestApp.Controllers
         {
             return View();
         }
+
+        public ActionResult Branch()
+        {
+            return View();
+        }
     }
 }
